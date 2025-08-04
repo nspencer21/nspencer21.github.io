@@ -18,3 +18,9 @@ img { border: 2px solid #333; width: 200px; }
   border-radius: 50%;
   border: 3px solid #333;
 }
+
+#interests {
+  border: 2px dashed #666;
+  margin-top: 2rem;
+}
+
