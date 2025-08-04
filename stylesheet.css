@@ -1,0 +1,17 @@
+p { line-height: 1.6; }
+
+.highlight { background: rgb(252, 252, 252); padding: 1rem; }
+
+#intro { font-size: 1.2rem; margin-bottom: 2rem; }
+
+a:hover { color: rgba(248, 168, 17, 0.755); }
+
+img { border: 2px solid #333; width: 200px; }
+
+#me-photo {
+  display: block;
+  margin: 1rem auto;
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #333;
+}
